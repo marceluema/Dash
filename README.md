@@ -1,2 +1,2 @@
 # Dash
- Criação de dashboards usando o dash do plotly
+ Criação de dashboards usando a biblioteca Dash do Plotly
